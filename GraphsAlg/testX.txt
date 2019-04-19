@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2016-11-12T04:33:02Z"/>
+
+  <bounds minlat="41.9391" minlon="-93.7814" maxlat="42.129" maxlon="-93.4621"/>
+
+
+  <node id="161163268" lat="42.0227662" lon="-93.6616122" version="3" timestamp="2012-09-28T16:14:42Z" changeset="13286940" uid="590362" user="Mitchell Thomas"/>
+<node id="161169113" lat="42.0222070" lon="-93.6615930" version="2" timestamp="2009-09-07T07:46:56Z" changeset="2399065" uid="147510" user="woodpeck_fixbot"/>
+<node id="161130647" lat="42.0215223" lon="-93.6615839" version="3" timestamp="2012-10-01T20:48:27Z" changeset="13327816" uid="590362" user="Mitchell Thomas"/>
+<node id="161169117" lat="42.0210070" lon="-93.6615810" version="2" timestamp="2009-09-07T07:46:56Z" changeset="2399065" uid="147510" user="woodpeck_fixbot"/>
+<node id="161035496" lat="42.0200430" lon="-93.6615740" version="2" timestamp="2009-09-07T07:21:52Z" changeset="2399065" uid="147510" user="woodpeck_fixbot"/>
+<node id="161169120" lat="42.0194330" lon="-93.6615620" version="2" timestamp="2009-10-07T15:45:35Z" changeset="2772231" uid="141719" user="trayhons"/>
+<node id="161169121" lat="42.0183290" lon="-93.6615500" version="2" timestamp="2009-09-07T07:46:56Z" changeset="2399065" uid="147510" user="woodpeck_fixbot"/>
+<node id="161169124" lat="42.0179250" lon="-93.6615610" version="2" timestamp="2009-10-07T15:45:35Z" changeset="2772231" uid="141719" user="trayhons"/>
+<node id="161169127" lat="42.0177970" lon="-93.6615600" version="2" timestamp="2009-09-07T07:46:56Z" changeset="2399065" uid="147510" user="woodpeck_fixbot"/>
+
+  <way id="16038319" version="4" timestamp="2012-10-01T13:28:53Z"
+  changeset="13322365" uid="590362" user="Mitchell Thomas">
+  <nd ref="161163268"/>
+  <nd ref="161169113"/>
+  <nd ref="161130647"/>
+  <nd ref="161169117"/>
+  <nd ref="161035496"/>
+  <nd ref="161169120"/>
+  <nd ref="161169121"/>
+  <nd ref="161169124"/>
+  <nd ref="161169127"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="South Wilmoth Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Story, IA"/>
+  <tag k="tiger:name_base" v="Wilmoth"/>
+  <tag k="tiger:name_direction_prefix" v="S"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="65945844:65961902:65961903:65945810"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-e80c81a2-0980-4acd-8909-7b56392d4de8"/>
+  <tag k="tiger:zip_left" v="50014"/>
+  <tag k="tiger:zip_right" v="50014"/>
+  </way>
+
+</osm>
